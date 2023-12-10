@@ -97,7 +97,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'TaskTracking',
         'USER': os.getenv('PG_USER', 'postgres'),
-        'PASSWORD': os.getenv('PG_PASSWORD', 'ezpz@123'),
+        'PASSWORD': os.getenv('PG_PASSWORD', 'password'),
         'HOST': os.getenv('PG_HOST', 'localhost'),
         'PORT': '5432',
     }

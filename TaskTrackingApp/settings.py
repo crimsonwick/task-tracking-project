@@ -1,4 +1,4 @@
-#superuser: ceo, ezpz@123
+
 """
 Django settings for TaskTrackingApp project.
 
